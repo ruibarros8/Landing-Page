@@ -1,0 +1,55 @@
+body{
+	font-family: 'Roboto', sans-serif;
+	background-image: url(Imagens/code_2.jpg);
+	background-size: 1920 X 1080;
+	font-weight: bold;
+	}
+	h2{
+		font-size: 85px;
+		font-weight: bold;
+		color:rgb(252,252,252);
+		-webkit-text-stroke: 1.5px black;
+		text-shadow: 2px 2px 2px grey;
+		text-align: center;
+		margin-top: -50px;
+	}
+	h1{
+		padding-top: 370px;
+		padding-left: 757px;
+		margin-bottom: -50px;
+		color: rgb(255,122,1);
+		font-weight:bold;
+		-webkit-text-stroke: 1.5px black;
+	}
+
+	h3{
+		font-size: 25px;
+		padding-top: -100px;
+		margin-top: -100px;
+		padding-left: 765px;
+		color: rgb(10,255,176);
+		font-weight:bold;
+		text-shadow: 0,3px 0,3px 0,3px green;
+		-webkit-text-stroke: 1.5px black;
+		margin-bottom: 142px;
+		}
+
+.linkedin{
+text-decoration: none;
+color: blue;
+font-size: 40px;
+padding-left: 287px;
+}
+
+.github{
+	text-decoration: none;
+	color: grey;
+	font-size: 40px;
+	padding-left: 580px;
+}
+.instagram{
+	text-decoration: none;
+	color: purple;
+	font-size: 40px;
+	padding-left: 580px;
+}
